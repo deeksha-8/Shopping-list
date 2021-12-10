@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100%;
+    background-image: url("images/bg.jpg");
+    margin: 0;
+    padding: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+.container{
+    margin: 0;
+    padding: 0;
+}
+header{
+    
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    padding: .4rem;
+    font-size: 4rem;
+    text-align: center;
+    background-color: gainsboro;
+}
+/* img{
+    margin: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    max-height: 100%;
+} */
